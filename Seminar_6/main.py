@@ -13,6 +13,3 @@ rentabilitate = portfolio.calculate_portfolio_return(sum_value_initial, sum_valu
 print(f'Доходность портфеля: {rentabilitate} %')
 max_value = portfolio.get_most_profitable_stock(stock, price_current)
 print(f'Наиболее прибыльная акция: {max_value}')
-
-
-
