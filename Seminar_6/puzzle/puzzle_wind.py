@@ -14,8 +14,8 @@ __all__ = ['get_num']
 
 
 def get_num(argv:list[str])-> bool:
-    guess_num(*(int(i) for i in argv))
+    guess_num(*(int(i) for i in argv[1:]))
 
 if __name__ == '__main__':
     get_num([1, 10, 3])
-    get_num([1, 10])
+    
