@@ -1,0 +1,142 @@
+[
+    {
+        "name": "homework8.py",
+        "type": "file",
+        "size": 3337,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "name_num.json",
+        "type": "file",
+        "size": 125,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "name_num.txt",
+        "type": "file",
+        "size": 86,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task1.py",
+        "type": "file",
+        "size": 1811,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task2.py",
+        "type": "file",
+        "size": 1792,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task3.py",
+        "type": "file",
+        "size": 822,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task4.py",
+        "type": "file",
+        "size": 1314,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task4_users.json",
+        "type": "file",
+        "size": 720,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "task5.py",
+        "type": "file",
+        "size": 722,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "test",
+        "type": "folder",
+        "size": null,
+        "files": 3,
+        "parent": null
+    },
+    {
+        "name": "1.py",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test"
+    },
+    {
+        "name": "2.py",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test"
+    },
+    {
+        "name": "test2",
+        "type": "folder",
+        "size": null,
+        "files": 2,
+        "parent": null
+    },
+    {
+        "name": "1.txt",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test2"
+    },
+    {
+        "name": "2.txt",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test2"
+    },
+    {
+        "name": "test.py",
+        "type": "file",
+        "size": 593,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "users.csv",
+        "type": "file",
+        "size": 79,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "users.json",
+        "type": "file",
+        "size": 214,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "users.pickle",
+        "type": "file",
+        "size": 128,
+        "files": null,
+        "parent": "Seminar_8"
+    },
+    {
+        "name": "__init__.py",
+        "type": "file",
+        "size": 98,
+        "files": null,
+        "parent": "Seminar_8"
+    }
+]
