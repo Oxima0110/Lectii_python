@@ -1,0 +1,5 @@
+ERROR:__main__:Функция div с аргументами args = (1, 0), kwargs ={} выдвала ошибку: message_errors = ZeroDivisionError('division by zero')
+ERROR:__main__:Функция creat_data с аргументами args = ('9-я среда мая',), kwargs ={} выдвала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция creat_data с аргументами args = ('1-я среда мая',), kwargs ={} выдвала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция creat_data с аргументами args = ('3-я среда мая',), kwargs ={} выдвала ошибку: message_errors = ValueError()
+ERROR:__main__:Функция creat_data с аргументами args = ('3-я среда мая',), kwargs ={} выдвала ошибку: message_errors = ValueError()
